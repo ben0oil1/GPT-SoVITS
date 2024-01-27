@@ -1,28 +1,13 @@
-<div align="center">
+# GPT-SoVITS-WebUI 
+A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI. 
 
-<h1>GPT-SoVITS-WebUI</h1>
-A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.<br><br>
+[源](https://github.com/RVC-Boss/GPT-SoVITS)
 
-[![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange
-)](https://github.com/RVC-Boss/GPT-SoVITS)
+[**中文简体**](./docs/cn/README.md) |
 
-<img src="https://counter.seku.su/cmoe?name=gptsovits&theme=r34" /><br>
-
-[![Licence](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge)](https://github.com/RVC-Boss/GPT-SoVITS/blob/main/LICENSE)
-[![Huggingface](https://img.shields.io/badge/🤗%20-Models%20Repo-yellow.svg?style=for-the-badge)](https://huggingface.co/lj1995/GPT-SoVITS/tree/main)
-
-
-[**English**](./README.md) | [**中文简体**](./docs/cn/README.md) | [**日本語**](./docs/ja/README.md)
-
-</div>
 
 ------
 
-
-
-> Check out our [demo video](https://www.bilibili.com/video/BV12g4y1m7Uw) here!
-
-https://github.com/RVC-Boss/GPT-SoVITS/assets/129054828/05bee1fa-bdd8-4d85-9350-80c060ab47fb
 
 For users in China region, you can use AutoDL Cloud Docker to experience the full functionality online: https://www.codewithgpu.com/i/RVC-Boss/GPT-SoVITS/GPT-SoVITS-Official
 
